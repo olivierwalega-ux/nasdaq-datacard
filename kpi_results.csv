@@ -1,0 +1,6 @@
+Ticker,Company,Completeness (%),Latency (days),Accuracy (%),Consistency (%)
+CRWD,CrowdStrike,100.0,393,100.0,100.0
+MELI,MercadoLibre,100.0,393,100.0,100.0
+CELH,Celsius Holdings,100.0,393,100.0,100.0
+DUOL,Duolingo,100.0,393,100.0,100.0
+RKLB,Rocket Lab,100.0,393,100.0,100.0
