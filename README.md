@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Maintainer** | Olivier Wierzbicki |
+| **Maintainer** | Olivier Wałęga |
 | **Course** | Assignment on Data-Quality KPIs for AI training data |
 | **Collection date** | 2025-04-01 (last observation in every ticker) |
 | **License** | Data © Yahoo. Personal / educational use only. Code: MIT. |
